@@ -1,0 +1,12 @@
+**NMV COMMANDS**
+
+nvm list
+nvm install 16.20.2
+nvm use 16.20.2
+
+node -v
+
+
+Start the app
+npx expo init myNewApp
+npx expo start
