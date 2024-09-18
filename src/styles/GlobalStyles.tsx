@@ -51,6 +51,29 @@ export const Styles = StyleSheet.create({
     },
 
     // Keyboard
+    row: {
+        maxWidth: '100%',
+        flexDirection: 'row'
+    },
+    viewBottom: {
+        position: 'absolute',
+        bottom: 50,
+    },
+    sreenFirstNumber: {
+        fontSize: 96,
+        color: myColors.gray,
+        fontWeight: '200',
+        alignSelf: "flex-end",
+    },
+    sreenSecondNumber: {
+        fontSize: 40,
+        color: myColors.gray,
+        fontWeight: '200',
+        alignSelf: "flex-end"
+    }
+
+
+
 });
 
 
