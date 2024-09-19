@@ -6,7 +6,15 @@ nvm use 16.20.2
 
 node -v
 
-
+**Expo commands**
 Start the app
 npx expo init myNewApp
 npx expo start
+
+**Create reactJs project**
+npm create vite@latest
+React
+JavaScript
+
+
+
