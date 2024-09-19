@@ -15,6 +15,7 @@ npx expo start
 npm create vite@latest
 React
 JavaScript
+npm install react-anchor-link-smooth-scroll
 
 
-
+npm run dev
