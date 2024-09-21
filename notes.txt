@@ -16,6 +16,9 @@ npm create vite@latest
 React
 JavaScript
 npm install react-anchor-link-smooth-scroll
-
-
 npm run dev
+
+
+ReactJs project
+npx create-react-app
+npm start
