@@ -22,3 +22,13 @@ npm run dev
 ReactJs project
 npx create-react-app
 npm start
+
+**Creating jobs app React native**
+npx create-expo-app@latest -e with-router ./
+
+
+
+
+
+
+"
